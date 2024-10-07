@@ -79,7 +79,7 @@ def listening_thread():
             return
 
 def main():
-    # listening_thread()
+    listening_thread()
     hwt.main()
 
 if __name__ == "__main__":
